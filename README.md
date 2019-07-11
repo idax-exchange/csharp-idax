@@ -16,9 +16,9 @@ public class IdaxConfig
         //YOUR SECRET
         public static string SECRET = "your secret";
         //IDAX REST OPEN API BASE URL.
-        public static string API_BASE_URL = "https://openapi.idax.mn";
-       //IDAX WS OPEN API BASE URL.
-        public static string WS_API_BASE_URL = "wss://openws.idax.mn/ws";  
+        public static string API_BASE_URL = "https://openapi.idax.pro";
+        //IDAX WS OPEN API BASE URL.
+        public static string WS_API_BASE_URL = "wss://openws.idax.pro/ws";  
         
         /**
          * init IdaxApiClientFactory
